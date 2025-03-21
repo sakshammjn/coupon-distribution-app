@@ -19,7 +19,7 @@ The Coupon Distribution App is a live web application designed to distribute cou
    ```
 
 2. **Install Dependencies**:
-   Ensure you have Node.js installed, then run:
+   Ensure you have Node.js installed, run:
    ```bash
    npm install
    ```
